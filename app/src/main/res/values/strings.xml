@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TelaZeplinLiberdade</string>
+    <string name="the_quick_brown">The quick brown fox jumps over the lazy dog</string>
+    <string name="news">NEWS</string>
+    <string name="ny">New York, NY</string>
+    <string name="cloudy">Cloudy, Thursday 4:00 AM</string>
+    <string name="temp">58</string>
+    <string name="today">Today, 1:45 PM</string>
+    <string name="lazy_dog">The quick brown fox jumps over the lazy dog</string>
+    <string name="pm">Today, 1:45 PM</string>
+    <string name="over">The quick brown fox jumps over the lazy dog</string>
+    <string name="time">Today, 1:45 PM</string>
+</resources>
